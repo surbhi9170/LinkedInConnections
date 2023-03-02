@@ -1,11 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "Hello Extensions of surbhi",
+    "name": "LinkedIn AutoConnect by Surbhi",
     "description": "Base Level Extension",
     "version": "1.0",
     "permissions": [ "activeTab","tabs","scripting" ],
     "action": {
-      "default_popup": "hello.html",
-      "default_icon": "hello_extensions.png"
+      "default_popup": "index.html",
+      "default_icon": "linkedInicon.png"
     }
   }
